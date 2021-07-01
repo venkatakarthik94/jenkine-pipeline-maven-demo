@@ -11,4 +11,3 @@ pool:
 
 steps:
 - script:npn install
-    goals: 'package'
