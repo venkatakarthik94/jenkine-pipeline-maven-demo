@@ -10,4 +10,4 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script:npn install
+- script: npn install
